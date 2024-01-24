@@ -1,0 +1,8 @@
+prefix=/home/nanu/catkin_ws/install
+
+Name: driver_launch
+Description: Description of driver_launch
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+driver_launch:gps_driver:imu_driver
+-DCATKIN_DEVEL_PREFIX=/home/nanu/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/nanu/catkin_ws/install -G Unix Makefiles
